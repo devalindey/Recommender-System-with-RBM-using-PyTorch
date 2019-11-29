@@ -1,0 +1,3 @@
+We will be using PyTorch to build a Restricted Boltzmann Machine for a Recommender System Model. PyTorch supports tensors (which are similar to NumPy arrays) & using methods like Contrastive Divergence & Gibbs Sampling can construct robust RBM models.
+To learn more about how to use PyTorch, go to https://pytorch.org/tutorials/. Also to learn the overall theoretical & mathematical intuition behind RBMs, check out this paper: https://christian-igel.github.io/paper/TRBMAI.pdf.
+This project has been done on a GPU-enabled Kaggle Notebook which comes with all the necessary packages including PyTorch.
